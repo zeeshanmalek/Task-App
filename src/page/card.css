@@ -1,0 +1,25 @@
+.card{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    width: 500px;
+    height: 100px;
+    width: auto;
+    background-color: #53BF9D;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+   
+}
+.card button{
+    margin: 35px 10px;
+  }
+.delete{
+    margin-right: 50px;
+}
+.comp{
+    margin-left: 100px;
+}
+h2{
+    background-color: rgb(43, 226, 211);
+}
