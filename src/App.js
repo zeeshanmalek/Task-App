@@ -3,13 +3,13 @@ import './App.css';
 import Card from './page/Card';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
-import SendIcon from '@mui/icons-material/Send';
+
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import AssignmentIcon from '@mui/icons-material/Assignment';
+
 import AddIcon from '@mui/icons-material/Add';
 import { useState, useEffect } from 'react';
 
